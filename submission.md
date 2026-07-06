@@ -207,4 +207,6 @@ Each bug fix is a separate commit on the `bugfix/mixtape` branch, using the conv
 7b64551 initial commit
 ```
 
-_(Screenshot of `git log --oneline` on the `bugfix/mixtape` branch to be attached.)_
+Screenshot of `git log --oneline` on the `bugfix/mixtape` branch:
+
+![git log --oneline on bugfix/mixtape](git_log_bugfix_mixtape.png)
